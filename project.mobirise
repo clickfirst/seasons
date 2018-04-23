@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bob Pollock- Seasons ",
-    "currentPage": "page12.html",
+    "currentPage": ".html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -62,7 +62,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -193,7 +193,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -365,10 +365,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -391,7 +391,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -558,7 +558,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -672,10 +672,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#f8f7f2"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -698,7 +698,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -883,7 +883,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1068,7 +1068,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1223,7 +1223,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1546,7 +1546,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1825,7 +1825,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2104,7 +2104,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2221,7 +2221,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2384,7 +2384,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
