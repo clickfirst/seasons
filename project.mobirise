@@ -1,13 +1,14 @@
 {
   "settings": {
-    "name": "Bob Pollock- Seasons ",
-    "currentPage": "index.html",
+    "name": "Bob Pollock- Consulate",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#f8f7f2"
+        "#f8f7f2",
+        "#f8f8f8"
       ]
     },
     "versionFirst": "3.12.1",
@@ -35,10 +36,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__section": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -62,7 +63,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -193,7 +194,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -391,7 +392,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -422,7 +423,7 @@
           "_anchor": "header3-f"
         },
         {
-          "text": "Legal Document Solutions, LLC can help with the following documents:\n<div>Asset Protection Trusts (Irrevocable Grantor Trust and Irrevocable Non-Grantor Trust)</div><div>Personal Service Contracts</div><div>Qualified Income Only Trusts (Miller Trusts)</div><div>Revocable Living Trust (Revocable Grantor Trust)</div><div>Power of Attorney (Durable and Health Care POA's)</div><div>Real Estate Transfer Deeds</div><div>Business entities (Corporations to LLC's)</div><div>VA Residence Trust &amp; Asset Protection Trusts</div><div>Medicaid Asset Protection Trusts</div><div>Grantor Trusts</div><div>Non-Grantor Trusts</div><div>Revocable Living Trusts ( Testamentary Trusts )\n</div><div><br></div><div><br></div><div>Legal Document Services Provided by Legal Document Solutions, LLC</div><div>License # AZLCP # 81300</div><div>480-730-3591</div>",
+          "text": "Legal Document Solutions, LLC can help with the following documents:\n<div>Asset Protection Trusts (Irrevocable Grantor Trust and Irrevocable Non-Grantor Trust)</div><div>Personal Service Contracts</div><div>Qualified Income Only Trusts (Miller Trusts)</div><div>Revocable Living Trust (Revocable Grantor Trust)</div><div>Power of Attorney (Durable and Health Care POA's)</div><div>Real Estate Transfer Deeds</div><div>Business entities (Corporations to LLC's)</div><div>VA Residence Trust &amp; Asset Protection Trusts</div><div>Medicaid Asset Protection Trusts</div><div>Grantor Trusts</div><div>Non-Grantor Trusts</div><div>Revocable Living Trusts ( Testamentary Trusts )\n</div><div><br></div><div><br></div><div>Legal Document Services Provided by&nbsp;</div><div>Wilson, Ford and Lovelace P.A.\r</div><div>401 South Lincoln Ave .\r</div><div>Clearwater, Fl 33756</div><div>HOT LINE 727-641-2672  \r</div><div>\rOffice 727-446-1036&nbsp;</div><div>\rFAX 727- 446-1037&nbsp;</div>",
           "_tags": [
             "Theme"
           ],
@@ -558,7 +559,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -698,7 +699,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -883,7 +884,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1068,7 +1069,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1223,7 +1224,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1546,7 +1547,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1825,7 +1826,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2104,7 +2105,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2221,7 +2222,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -2384,7 +2385,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435971-283x128.png",
+              "src": "@PROJECT_PATH@/assets/images/imageedit-7388435970-283x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
