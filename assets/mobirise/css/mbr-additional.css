@@ -3,10 +3,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-0 .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -18,10 +18,10 @@
   font-size: 16px;
 }
 #menu-4.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-4 .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-4 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -45,10 +45,10 @@
   font-size: 16px;
 }
 #menu-8.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-8 .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-8 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -140,18 +140,14 @@
 #menu-s .mbr-navbar__hamburger {
   color: #ffffff;
 }
-
-#header3-12 H3 {
-  font-family: 'Open Sans', sans-serif;
-}
 #menu-x .mbr-brand__name {
   font-size: 16px;
 }
 #menu-x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f8f7f2;
+  background: #f8f8f8;
 }
 #menu-x .mbr-navbar__section {
-  background: #f8f7f2;
+  background: #f8f8f8;
 }
 #menu-x .mbr-navbar__hamburger {
   color: #ffffff;
@@ -167,10 +163,10 @@
   font-size: 16px;
 }
 #menu-15.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f8f7f2;
+  background: #f8f8f8;
 }
 #menu-15 .mbr-navbar__section {
-  background: #f8f7f2;
+  background: #f8f8f8;
 }
 #menu-15 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -186,10 +182,10 @@
   font-size: 16px;
 }
 #menu-19.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-19 .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-19 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -204,10 +200,10 @@
   font-size: 16px;
 }
 #menu-1d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-1d .mbr-navbar__section {
-  background: #ffffff;
+  background: #f8f8f8;
 }
 #menu-1d .mbr-navbar__hamburger {
   color: #ffffff;
@@ -241,4 +237,16 @@
 }
 #msg-box2-1m .mbr-article {
   color: #252525;
+}
+#menu-2b .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2b.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f8f8f8;
+}
+#menu-2b .mbr-navbar__section {
+  background: #f8f8f8;
+}
+#menu-2b .mbr-navbar__hamburger {
+  color: #ffffff;
 }
